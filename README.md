@@ -9,6 +9,6 @@
 
 <br />
 
-![Visitor Count](https://profile-counter.glitch.me/Charles-repo/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Shing-Ho/count.svg)
 
 </div>
